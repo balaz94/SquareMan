@@ -242,7 +242,7 @@ function cHelp() {
 	c.fillText("Back to menu", 145, 375);
 	c.fillText("Arrows - move", 30, 300);
 	c.fillText("ESC - menu", 30, 320);
-	c.fillText("Enemy colision - score decrement", 30, 340);
+	c.fillText("Score is decreased after collision.", 30, 340);
 }
 function sLevel(xP, yP, xN, yN) {
 	c.clearRect(0, 0, 400, 400);
