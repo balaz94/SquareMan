@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	background-color: #5ea1d4;
+}
+#canvas {
+	border-style: solid;
+    border-width: 20px;
+	border-color: white;
+}
+#area {
+    margin: auto;
+    margin-top: 50px;
+}
+
+#level {
+	margin-top: 5px;
+	margin-left: -300px;
+	font-size: 30px;
+	color: #FFFFFF;
+}
+#score {
+	margin-top: -34px;
+	margin-left: 300px;
+	font-size: 30px;
+	color: #FFFFFF;
+}
